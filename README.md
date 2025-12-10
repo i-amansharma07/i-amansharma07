@@ -35,18 +35,18 @@ I turn coffee into code and problems into solutions. I am a passionate developer
 
 ## 🏆 Featured Projects
 
-### 💬 [Bloop - Full Stack Chat App](#)
+### 💬 [Bloop - Full Stack Chat App](https://bloop-fe.netlify.app/)
 A real-time messaging platform enabling instant updates.
 - **Tech:** React, WebSockets, Express, Prisma, PostgreSQL, NeonDB.
 - **Cool Factor:** Seamless live communication deployed on Vercel.
 
-### 🏋️‍♂️ [Blood Sweat Cheers (BSC)](#)
+### 🏋️‍♂️ [Blood Sweat Cheers (BSC)](https://play.google.com/store/apps/details?id=com.aman.ache&hl=en)
 *5-Star Rated App on PlayStore!* 🌟
 A native Android solution that turns your smartphone into a personal gym trainer.
 - **Tech:** Kotlin, Android SDK, Lottie Animations.
 - **Impact:** Solves guidance issues for gym-goers.
 
-### 🌐 [Personal Portfolio](#)
+### 🌐 [Personal Portfolio](https://aman-me.vercel.app/)
 My digital garden showcasing my skills and blogs.
 - **Tech:** Next.js, Tailwind, Radix UI, Lucide React.
 
